@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Nova Ramadhan</h1>
 <h3 align="center">Welcome to my GitHub profile! I'm a seasoned System Administrator with a passion for ensuring the stability, security, and performance of IT infrastructures. With over 3 years of experience, I have had the opportunity to work on various projects, including OCSTC, MO Backup, and Payment Gateway at PT. Telkomsel</h3>
 
-- 🔭 I’m currently working on **Payment Gateway Project at PT. Telkomsel**
-
-- 🌱 I’m currently learning **Intermediate How To Become System Administrato at Dicoding Course**
-
-- 👯 I’m looking to collaborate on **open-source projects related to system administration tools, infrastructure automation, cloud management, or any innovative solutions that enhance IT operations efficiency and reliability.**
-
-- 🤝 I’m looking for help with **- Optimizing VMware infrastructure for improved virtualization performance and resource management. - Troubleshooting performance issues and system errors in VMware environments and Linux servers. - Managing storage resources effectively in VMware environments and Linux servers. - Enhancing security measures for VMware hosts and guest operating systems. - Familiar with Backup Oracle third party with rman. - Familiar with Backup Windows, Linux, Database MySQL, SAP. - Handle Backup and Restore whole VM. - Migration Activity using third party NetBackup Integrated with VMware, RHEV. - Manage, checking and troubleshoot issue transaction on server and database with Linux server and PgAdmin - Testing and sanity test after deployment or after changes on server with SoapUI - Manage database transaction with PostgreSQL (pgAdmin) - Deploy new service with Jboss**
+- 💼 Currently working on: Payment Gateway Project
+- 🌱 Always learning and exploring new technologies in the field of IT infrastructure.
+- 💻 Proficient in: Linux server administration, VMware, database management, scripting (e.g., Bash, Python), network services (e.g., DNS, DHCP), and cloud platforms (mention if applicable).
+- 🚀 Experienced in: Configuring and maintaining critical systems for Application Infrastructure
+- 🔍 Interested in: Open-source projects related to system administration, automation, and infrastructure as code.
+- 💬 Open to collaborations and discussions with fellow IT professionals.
 
 - 💬 Ask me about **Linux, Databases,Virtualization**
 
