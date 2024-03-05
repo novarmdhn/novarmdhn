@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nova Ramadhan</h1>
 <h3 align="center">I am a System Administrator with 3 years of experience managing IT Infrastructure in several Telkomsel projects, such as OCSTC, MO Backup, and Payment Gateway</h3>
+<img align ="right" alt="Sysadmin" width="400" src="[https://iconscout.com/lottie-animation/online-server-manager-4098972](https://cdnl.iconscout.com/lottie/premium/preview-watermark/online-server-manager-4098972-3428944.mp4)">
 
 - 💼 Currently working on: Payment Gateway Project
 - 🌱 Always learning and exploring new technologies in the field of IT infrastructure.
