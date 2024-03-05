@@ -1,23 +1,23 @@
-# Hi there, I'm Nova Ramadhan! 👋
+<h1 align="center">Hi 👋, I'm Nova Ramadhan</h1>
+<h3 align="center">Welcome to my GitHub profile! I'm a seasoned System Administrator with a passion for ensuring the stability, security, and performance of IT infrastructures. With over 3 years of experience, I have had the opportunity to work on various projects, including OCSTC, MO Backup, and Payment Gateway at PT. Telkomsel</h3>
 
-Welcome to my GitHub profile! I'm a seasoned System Administrator with a passion for ensuring the stability, security, and performance of IT infrastructures. With over 3 years of experience, I have had the opportunity to work on various projects, including OCSTC, MO Backup, and Payment Gateway at PT. Telkomsel
+- 🔭 I’m currently working on **Payment Gateway Project at PT. Telkomsel**
 
-## About Me
+- 🌱 I’m currently learning **Intermediate How To Become System Administrato at Dicoding Course**
 
-- 💼 Currently working on: Payment Gateway Project
-- 🌱 Always learning and exploring new technologies in the field of IT infrastructure.
-- 💻 Proficient in: Linux server administration, VMware, database management, scripting (e.g., Bash, Python), network services (e.g., DNS, DHCP), and cloud platforms (mention if applicable).
-- 🚀 Experienced in: Configuring and maintaining critical systems for Application Infrastructure
-- 🔍 Interested in: Open-source projects related to system administration, automation, and infrastructure as code.
-- 💬 Open to collaborations and discussions with fellow IT professionals.
+- 👯 I’m looking to collaborate on **open-source projects related to system administration tools, infrastructure automation, cloud management, or any innovative solutions that enhance IT operations efficiency and reliability.**
 
-## Recent Projects
+- 🤝 I’m looking for help with **- Optimizing VMware infrastructure for improved virtualization performance and resource management. - Troubleshooting performance issues and system errors in VMware environments and Linux servers. - Managing storage resources effectively in VMware environments and Linux servers. - Enhancing security measures for VMware hosts and guest operating systems. - Familiar with Backup Oracle third party with rman. - Familiar with Backup Windows, Linux, Database MySQL, SAP. - Handle Backup and Restore whole VM. - Migration Activity using third party NetBackup Integrated with VMware, RHEV. - Manage, checking and troubleshoot issue transaction on server and database with Linux server and PgAdmin - Testing and sanity test after deployment or after changes on server with SoapUI - Manage database transaction with PostgreSQL (pgAdmin) - Deploy new service with Jboss**
 
-- [MO Backup]: Manage Operation Backup with Veritas Netbackup adn implementing on linux server Telkomsel (September 2021 - July 2022)
-- [AESC project]: Manage Operation Apps Payment Gateway with linux server, PGAdmin, and Linux Server Telkomsel (July 2022 - now)
+- 💬 Ask me about **Linux, Databases,Virtualization**
 
-## Get in Touch
+- 📫 How to reach me **novarmdhn1611@gmail.com**
 
-- 📫 Feel free to reach out to me via [email](mailto:novarmdhn1611@gmail.com) or connect with me on [LinkedIn]https://www.linkedin.com/in/nova-ramadhan-1b7814216/
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/nova ramadhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nova ramadhan" height="30" width="40" /></a>
+<a href="https://instagram.com/vanova.rmdhn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vanova.rmdhn" height="30" width="40" /></a>
+</p>
 
-Thanks for stopping by! I'm excited to connect and collaborate with you.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
