@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nova Ramadhan</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a seasoned System Administrator with a passion for ensuring the stability, security, and performance of IT infrastructures. With over 3 years of experience, I have had the opportunity to work on various projects, including OCSTC, MO Backup, and Payment Gateway at PT. Telkomsel</h3>
+<h3 align="center">I'm a seasoned System Administrator with a passion for ensuring the stability, security, and performance of IT infrastructures. With over 3 years of experience, I have had the opportunity to work on various projects, including OCSTC, MO Backup, and Payment Gateway at PT. Telkomsel</h3>
 
 - 💼 Currently working on: Payment Gateway Project
 - 🌱 Always learning and exploring new technologies in the field of IT infrastructure.
