@@ -13,8 +13,8 @@ Welcome to my GitHub profile! I'm a seasoned System Administrator with a passion
 
 ## Recent Projects
 
-- [MO Backup]: Manage Operation Backup with Veritas Netbackup adn implementing on linux server Telkomsel
-- [AESC project]: Manage Operation Apps Payment Gateway with linux server, PGAdmin, and Linux Server Telkomsel
+- [MO Backup]: Manage Operation Backup with Veritas Netbackup adn implementing on linux server Telkomsel (September 2021 - July 2022)
+- [AESC project]: Manage Operation Apps Payment Gateway with linux server, PGAdmin, and Linux Server Telkomsel (July 2022 - now)
 
 ## Get in Touch
 
