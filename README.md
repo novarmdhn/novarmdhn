@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nova Ramadhan</h1>
 <h3 align="center">I am a System Administrator with 3 years of experience managing IT Infrastructure in several Telkomsel projects, such as OCSTC, MO Backup, and Payment Gateway</h3>
 
-- 💼 Currently working on: Payment Gateway Project
+- 💼 Currently working on: MO Server Project
 - 🌱 Always learning and exploring new technologies in the field of IT infrastructure.
 - 💻 Proficient in: Linux server administration, VMware, database management, scripting (e.g., Bash, Python), network services (e.g., DNS, DHCP), and cloud platforms (mention if applicable).
 - 🚀 Experienced in: Configuring and maintaining critical systems for Application Infrastructure
